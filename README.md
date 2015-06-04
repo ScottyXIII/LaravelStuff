@@ -1,7 +1,5 @@
 # LaravelStuff
-Just messing around with Laravel 5.
-
-Just a simple Laravel 5 MVC website with backend database and a smimple blog posting system. 
+Just a simple Laravel 5 MVC website with backend database and a simple blog posting system. 
 
 # Each blog post has 
   A many to many relationship between each blog post and categoreies.
