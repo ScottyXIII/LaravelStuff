@@ -8,3 +8,12 @@ Just a simple Laravel 5 MVC website with backend database and a simple blog post
   
   
 Any new posts are currently entered via PHPMYADMIN but will implement a simple CMS to allow creating and editing of each blog post, categories and any realtionships. 
+
+
+# MVC environment.
+
+Models are in the root folder of /App 
+Controllers are in /App/Http/Controllers
+Views are in /resources/views
+
+# Using Twitter Bootstrap for CSS.
