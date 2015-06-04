@@ -2,8 +2,8 @@
 Just messing around with Laravel 5.
 
 Just a simple Laravel 5 MVC website with backend database and a smimple blog posting system. 
-#sdfsdfds
-<h2> Each blog post has </h2>
+
+ Each blog post has </h2>
   A many to many relationship between each blog post and categoreies.
   A one to Many relationship between a blog post and each comment. 
   A one to one relationship between a blog post and its author. 
