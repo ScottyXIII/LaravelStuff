@@ -13,7 +13,9 @@ Any new posts are currently entered via PHPMYADMIN but will implement a simple C
 # MVC environment.
 
 Models are in the root folder of /App
+
 Controllers are in /App/Http/Controllers 
+
 Views are in /resources/views 
 
 # Using Twitter Bootstrap for CSS.
